@@ -10,4 +10,3 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/og-image.jpg"]
-theme: hugo-universal-theme
